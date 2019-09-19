@@ -1,0 +1,4 @@
+C:\Git\VR4.Ejercicio\VR4.Ejercicio.Model\bin\Debug\VR4.Ejercicio.Model.dll
+C:\Git\VR4.Ejercicio\VR4.Ejercicio.Model\bin\Debug\VR4.Ejercicio.Model.pdb
+C:\Git\VR4.Ejercicio\VR4.Ejercicio.Model\obj\Debug\VR4.Ejercicio.Model.dll
+C:\Git\VR4.Ejercicio\VR4.Ejercicio.Model\obj\Debug\VR4.Ejercicio.Model.pdb
